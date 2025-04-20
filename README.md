@@ -1,6 +1,6 @@
 # Simple Gallery
 
-A simple and minimalistic image gallery and lightbox with mouse, touch and keyboard support, written in vanilla JavaScript.
+A simple minimalistic image gallery and lightbox with mouse, touch and keyboard support, written in vanilla JavaScript.
 
 ![Simple Gallery Example](https://github.com/user-attachments/assets/cffaf7a6-24d6-439a-9a79-7344b877a11c)
 
