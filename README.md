@@ -19,7 +19,7 @@ Photography under the [Unsplash License](https://unsplash.com/license) by:
 <script src="simple-gallery.js"></script>
 ```
 
-- For images, which should receive lightbox functionality, set the class of the image to <code>class="-lightbox"</code>:
+- For images, which should receive lightbox functionality, set the class of the image to <code>-lightbox</code>:
 ```html
 <img src="your-image.jpg" class="-lightbox">
 ```
