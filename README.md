@@ -24,7 +24,7 @@ Photography under the [Unsplash License](https://unsplash.com/license) by:
 <img src="your-image.jpg" class="-lightbox">
 ```
 
-- For a gallery slider, wrap the images into a <code>div</code> with <code>class="-gallery"</code>. Additionally add <code>-lightbox</code>, if lightbox functionality is desired:
+- For a gallery slider, wrap the images into a <code>div</code> with the class <code>-gallery</code>. Additionally add <code>-lightbox</code>, if lightbox functionality is desired:
 ```html
 <div class="-gallery -lightbox">
     <img src="your-image1.jpg">
