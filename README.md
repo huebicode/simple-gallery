@@ -1,10 +1,10 @@
 # Simple Gallery
 
-A simple minimalistic image gallery and lightbox with mouse, touch and keyboard support, written in vanilla JavaScript.
+A minimalistic image gallery slider and lightbox with mouse, touch and keyboard support.
 
 ![Simple Gallery Example](https://github.com/user-attachments/assets/cffaf7a6-24d6-439a-9a79-7344b877a11c)
 
-Used photography under the [Unsplash License](https://unsplash.com/license) by:
+Used photographs under the [Unsplash License](https://unsplash.com/license) by:
 - [Louis Pellissier](https://unsplash.com/photos/wJ2SaSiL5FA)
 - [Hannes Egler](https://unsplash.com/de/fotos/6SLdXXVYQpo)
 - [Takahiro Taguchi](https://unsplash.com/photos/ODXZTJC5odw)
