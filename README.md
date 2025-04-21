@@ -4,7 +4,7 @@ A minimalistic image gallery slider and lightbox with mouse, touch and keyboard 
 
 ![Simple Gallery Example](https://github.com/user-attachments/assets/cffaf7a6-24d6-439a-9a79-7344b877a11c)
 
-Used photographs under the [Unsplash License](https://unsplash.com/license) by:
+Photography under the [Unsplash License](https://unsplash.com/license) by:
 - [Louis Pellissier](https://unsplash.com/photos/wJ2SaSiL5FA)
 - [Hannes Egler](https://unsplash.com/de/fotos/6SLdXXVYQpo)
 - [Takahiro Taguchi](https://unsplash.com/photos/ODXZTJC5odw)
@@ -19,12 +19,12 @@ Used photographs under the [Unsplash License](https://unsplash.com/license) by:
 <script src="simple-gallery.js"></script>
 ```
 
-- For solo images, which should receive lightbox functionality, set the class of every image to <code>class="-lightbox"</code>:
+- For images, which should receive lightbox functionality, set the class of the image to <code>class="-lightbox"</code>:
 ```html
 <img src="your-image.jpg" class="-lightbox">
 ```
 
-- For a gallery slider, wrap the images into a <code>div</code> with the <code>class="-gallery"</code>. Additionally add <code>-lightbox</code> to the class, if lightbox functionality is desired:
+- For a gallery slider, wrap the images into a <code>div</code> with <code>class="-gallery"</code>. Additionally add <code>-lightbox</code>, if lightbox functionality is desired:
 ```html
 <div class="-gallery -lightbox">
     <img src="your-image1.jpg">
