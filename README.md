@@ -24,7 +24,7 @@ Used photographs under the [Unsplash License](https://unsplash.com/license) by:
 <img src="your-image.jpg" class="-lightbox">
 ```
 
-- For a carousel slider, wrap the images into a <code>div</code> with the <code>class="-gallery"</code>. Additionally add <code>-lightbox</code> to the class, if lightbox functionality is desired:
+- For a gallery slider, wrap the images into a <code>div</code> with the <code>class="-gallery"</code>. Additionally add <code>-lightbox</code> to the class, if lightbox functionality is desired:
 ```html
 <div class="-gallery -lightbox">
     <img src="your-image1.jpg">
