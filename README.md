@@ -14,7 +14,7 @@ Photography under the [Unsplash License](https://unsplash.com/license) by:
 
 ## Usage
 
-- Import the script with:
+- Import the script:
 ```html
 <script src="simple-gallery.js"></script>
 ```
