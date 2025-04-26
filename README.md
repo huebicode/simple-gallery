@@ -21,14 +21,14 @@ Photography under the [Unsplash License](https://unsplash.com/license) by:
 
 - For images, which should receive lightbox functionality, set the class of the image to <code>-lightbox</code>:
 ```html
-<img src="your-image.jpg" class="-lightbox">
+<img src="image.avif" class="-lightbox">
 ```
 
 - For a gallery slider, wrap the images into a <code>div</code> with the class <code>-gallery</code>. Additionally add <code>-lightbox</code>, if lightbox functionality is desired:
 ```html
 <div class="-gallery -lightbox">
-    <img src="your-image1.jpg">
-    <img src="your-image2.jpg">
-    <img src="your-image3.jpg">
+    <img src="image1.avif">
+    <img src="image2.avif">
+    <img src="image3.avif">
 </div>
 ```
